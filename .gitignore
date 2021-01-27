@@ -1,0 +1,11 @@
+GeoCalculator.VC.db
+ipch
+Debug/*.exp
+Debug/*.pdb
+Debug/*.ilk
+Release/*.exp
+Release/*.ipdb
+Release/*.iobj
+Release/*.pdb
+GeoCalculator/Debug
+GeoCalculator/Release
